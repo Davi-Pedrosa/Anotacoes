@@ -1,0 +1,19 @@
+-=-=-=-=-=-=-Controle de Versão=-=-=-=-=-==-
+
+Permite que as equipes acompanhem as alterações e os progressos de um projeto, sempre ATUALIZANDO o seu código
+
+Branch - você cria uma ramificação (um novo caminho), criando uma cópia para cada desenvolvedor, assim cada um podendo trabalhar em sua própria area de trabalho e commitar (enviar) sem que haja conflito com outros desenvolvedores
+
+Ferramenta mais utilizada: Git/github
+
+Benficios do Git
+facilita o trabalho colaborativo
+facilita a reversão de alterações do código
+facilita a resolução de conflitos
+facilita mantendo o histórico detalhado de cada alteração
+
+comandos
+git status - mostra se há alterações arquivos que não estão sendo ewxecutados no momento
+git add (nome do arquivo)
+git commit -m "Aqui deve entrar a mensagem referente ao commit"
+git log - exibe uma lista em ordem cronológica mostrando data e hora em que o commit foi feito
